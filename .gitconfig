@@ -1,0 +1,7 @@
+[user]
+	email = yugtmath@umich.edu
+	name = Guangting Yu
+[core]
+	autocrlf = input
+[color]
+	ui = true
