@@ -3,5 +3,6 @@
 	name = Guangting Yu
 [core]
 	autocrlf = input
+	whitespace = =
 [color]
 	ui = true
